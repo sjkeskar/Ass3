@@ -1,0 +1,15 @@
+.color-custom {
+    /* fallback for old browsers */
+    background-color: #222222;
+}
+
+.inside-color{
+    border-radius: 1rem;
+    background-color: #141414;
+}
+
+.btn-color{
+    background-color: #62bd29;
+    color: white;
+    border-radius: 0.7rem;
+}
